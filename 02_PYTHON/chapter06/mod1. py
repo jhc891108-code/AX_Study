@@ -1,0 +1,13 @@
+def add(num1, num2)
+    return num1 + num2
+
+def minus(num1, num2)
+    return num1 - num2
+
+VERSION = "1. o. o" 
+
+if__naem__ == '__main__': # 터미널에서 파이썬 파일을 실행
+    print("모듈명":,__nime__)
+
+result = add (10, 20)
+print("결과: ", result)
